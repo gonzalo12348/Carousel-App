@@ -2,7 +2,7 @@
 
 # Challenge - Puzzle 
 
-<p align="right">
+<p align="center">
   <img height="200" src="./assets/inicioImagen.png" />
 </p>
 
@@ -21,12 +21,11 @@ Requerimientos:
 ## Demo
 <div align="center">
    <img height="250" width="50%" src="./imgDemo/2.png" />
-  <img height="250" width="45%" src="./imgDemo/1.png" />
-  <img height="250" width="50%" src="./imgDemo/3.png" />
-  <img height="250" width="45%" src="./imgDemo/4.png" />
 </div>
 
 
 ## Duracion
 
 El challenge se realizo en una duración de 2 dias.
+
+Developed by Gonzalo Arancibia
