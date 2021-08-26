@@ -20,7 +20,7 @@ Requerimientos:
 
 ## Demo
 <div align="center">
-   <img height="250" width="50%" src="./imgDemo/2.png" />
+   <img height="250" width="50%" src="./carousel-app.gif" />
 </div>
 
 
