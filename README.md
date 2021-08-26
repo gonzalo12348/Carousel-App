@@ -26,7 +26,7 @@ Requerimientos:
 
 ## Duracion
 
--El challenge se realizo en una duración de 2 dias.
+-El challenge se realizo en una duración de 2 dias. </br>
 -Para correr el proyecto clonar el repositorio , luego ir dentro del repositorio para colocar en terminal npm install y por ultimo npm start. Ya funcionando la app hay que conectarse a travez de un telefono descargandose expo en play store para iniciar expo donde podemos acceder a nuestra aplicacion.
 
 Developed by Gonzalo Arancibia
